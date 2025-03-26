@@ -4,22 +4,29 @@ This application allows librarians to efficiently manage books by adding, updati
 
 ##  Features
  **Add a Book** – 
+ 
  ->Store book details (ID, Title, Author, Genre, Availability). 
 
  **View All Books** – 
+ 
  ->Display a list of all available books. 
  
  **Search a Book** – 
+ 
  ->Search by Book ID or Title.  
  
  **Update Book Details** – 
+ 
  ->Modify details like title, author, or availability status.  
  
  **Delete a Book** –
+ 
  ->Remove a book from the catalog.
  
  **Exit System** – 
- ->Close the program safely.  
+ 
+ ->Close the program safely. 
+ 
 
  
 ##  Constraints
