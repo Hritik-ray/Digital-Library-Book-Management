@@ -35,6 +35,23 @@ This application allows librarians to efficiently manage books by adding, updati
 -> **Availability Status** must be either **Available** or **Checked Out**.  
 
 
+## Folder Structure
+  
+│-- 📁 src        ( Java source files (.java) )
+
+│   ├── 📄 Book.java  
+
+│   ├── 📄 Library.java  
+
+│   ├── 📄 Main.java
+
+│-- 📁 bin        (Compiled class files (.class) )
+
+│-- 📄 library_data.txt  ( Stored book data )
+
+│-- 📄 README.md  (Project documentation)
+
+
 ##  Setup & Run Instructions
 
 
