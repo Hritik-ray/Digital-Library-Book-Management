@@ -60,10 +60,17 @@ class Library {
     }
     
     public void deleteBook(String bookID) {
-        books.removeIf(book -> book.getBookID().equals(bookID));
-        saveBooks();
-        System.out.println("Book deleted successfully.");
+    for (int i = 0; i < books.size(); i++) {
+        if (books.get(i).getBookID().equals(bookID)) {
+            books.remove(i);
+            saveBooks();
+            System.out.println("Book deleted successfully.");
+            return; 
+        }
     }
+    System.out.println("Book not found.");
+}
+
     
     private void saveBooks() {
         try (ObjectOutputStream oos = new ObjectOutputStream(new FileOutputStream(FILE_NAME))) {
