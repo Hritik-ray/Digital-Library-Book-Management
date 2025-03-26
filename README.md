@@ -30,12 +30,14 @@ This application allows librarians to efficiently manage books by adding, updati
 
 ##  Setup & Run Instructions
 
+
 1. **Clone the Repository**  
    
   git clone https://github.com/Hritik-ray/Digital-Library-Book-Management.git
+
   
 
- 2.**Run using an IDE**
+ 2. **Run using an IDE**
  
   ->Open the project in VS Code / IntelliJ IDEA / Eclipse.
 
