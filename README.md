@@ -32,7 +32,7 @@ This application allows librarians to efficiently manage books by adding, updati
 1. **Clone the Repository**  
    
    git clone https://github.com/Hritik-ray/Digital-Library-Book-Management.git
-   cd Digital-Library-Book-Management
+   
 
 
 ## Challenges Faced
