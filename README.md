@@ -37,14 +37,18 @@ This application allows librarians to efficiently manage books by adding, updati
 
 ## Challenges Faced
 ->Ensuring correct file structure (src for .java files, bin for .class files).
+
 ->Implementing search functionality efficiently.
+
 ->Handling user input validation and data persistence.
 
 
 
 ## Future Improvements
 ->Adding a Graphical User Interface (GUI) for better usability.
+
 ->Implementing a database for persistent book storage.
+
 ->Improving exception handling for robustness.
 
 
