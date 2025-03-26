@@ -38,7 +38,8 @@ This application allows librarians to efficiently manage books by adding, updati
 2️⃣ Project Structure
 
 Digital-Library-Book-Management/
-│── src/             # Java source files
+
+│── src/                  # Java source files
 
 │   ├── Main.java
 
@@ -46,9 +47,9 @@ Digital-Library-Book-Management/
 
 │   ├── Book.java
 
-│── bin/             # Compiled .class files (generated after compilation)
+│── bin/                # Compiled .class files (generated after compilation)
 
-│── library_data.txt # Stores book records
+│── library_data.txt     # Stores book records
 
 │── README.md        # Project Documentation
 
