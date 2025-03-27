@@ -45,7 +45,7 @@ This application allows librarians to efficiently manage books by adding, updati
 
 │   ├── 📄 Main.java
 
-     │-- 📄 library_data.txt  ( Stored book data )
+   │-- 📄 library_data.txt  ( Stored book data )
 
 │-- 📁 bin        (Compiled class files (.class) )
 
